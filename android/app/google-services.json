@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "575434921930",
+    "project_id": "nearmi-bea52",
+    "storage_bucket": "nearmi-bea52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575434921930:android:bd53150cd285f1bc4aa133",
+        "android_client_info": {
+          "package_name": "com.ph.nearmi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575434921930-o5okfentfdd0klqh9t54t4mghtmj0otb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ph.nearmi",
+            "certificate_hash": "6a53cfb6d296efb50485df5f1edc1b787ee71ee4"
+          }
+        },
+        {
+          "client_id": "575434921930-v48ubh8v17epnkfqvacbj1vc5cij6kkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiKh2n4bfChixS2bMEVvzrVluVsrWKsJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575434921930-v48ubh8v17epnkfqvacbj1vc5cij6kkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
